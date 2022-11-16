@@ -1,6 +1,17 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9355328&assignment_repo_type=AssignmentRepo)
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+Created by 21343033_Nicholas Ryan Jonathan
+1. Kendaraan.java --> (latihan 1-a) class parent yang berisi var harga dasar dan metode tampilkan harga
+2. RodaDua.java --> (latihan 1-b) class child berisi var NaikHargaKe dan metode menentukan hargaAkhir
+3. RodaEmpat.java --> (latihan 1-c) class child berisi var NaikHargaKe dan metode hargaAkhir
+4. JavaInheritance.java --> (latihan 1-d) class untuk membuat objek dan menggunakan metode di class Kendaraan, RodaDua, dan RodaEmpat
+5. CompileTime.java --> (latihan 2-a) mempelajari polymorphism static
+6. polymorphismStatic.java --> (latihan 2-b) mempelajari polymorphism static
+7. Bank.java --> (latihan 3-a) mempelajari polymorphism dynamic
+8. polymorphismDynamic.java --> (latihan 3-b) mempelajari polymorphism dynamic
+9. orang.java --> (latihan 4-a) mempelajari abstract class
+10. AnakUmur1Tahun.java --> (latihan 4-b) mempelajari abstract class
+11. manusia.java --> (latihan 4-c) mempelajari abstract class
+12. AktivitasPagi.java --> (latihan 5-a) mempelajari interface
+13. AktivitasPagiAnak.java --> (latihan 5-b) mempalajari interface
+14. AktivitasUtama.java --> (latihan 5-c) mempalajari interface
+15. EncapsulationBuah.java --> (latihan 6-a) mempelajari encapsulation 
+16. BuatUtama.java --> (latihan 6-b) mempalajari encapsulation
